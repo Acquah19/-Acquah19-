@@ -1,2 +1,2 @@
 # -Acquah19-
-My personal repository getting to know github
+My personal repository getting to know how to use github
